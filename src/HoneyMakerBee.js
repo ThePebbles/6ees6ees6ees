@@ -10,7 +10,7 @@ class HoneyMakerBee {
     this.honeyPot++;
   }
   giveHoney = function(){
-  this.honeyPot--;
+    this.honeyPot--;
   }
 
 };
